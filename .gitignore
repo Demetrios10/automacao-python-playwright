@@ -1,12 +1,6 @@
 # Ambiente virtual
 venv/
-
-# Cache do Python
+.pytest_cache/
 __pycache__/
 *.pyc
-
-# Pytest
-.pytest_cache/
-
-# VS Code
 .vscode/
